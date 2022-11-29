@@ -9,6 +9,15 @@
 
 - charities
 - simple business service
-- some information or petition signing
+- petitions
 - social interaction
 
+### modifiers
+
+- global
+- local
+- trust
+- archive
+- structure
+- mapping
+- formats
