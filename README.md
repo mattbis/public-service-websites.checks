@@ -40,6 +40,7 @@
 - monitoring and insight
 - code feedback
 - user feedback
+- vip
 
 ### aims 
 
