@@ -21,3 +21,10 @@
 - structure
 - mapping
 - formats
+- history
+- syndication
+- updates
+- indexers
+- social media
+- free media
+- open media
