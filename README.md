@@ -64,3 +64,5 @@ ii. denominator url
   - advanced sitemaps
 - datamaps
 - resourcemaps
+
+## map syndication
