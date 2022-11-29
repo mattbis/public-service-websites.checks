@@ -39,6 +39,10 @@
 
 ### aims 
 
+#### ratings
+- noble, civil, and syndicators rating
+
+#### usability
 - hateoas
 - micronav
 - microdata
