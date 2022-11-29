@@ -105,12 +105,19 @@
 - therefore its important to know in a sequential index, every possible end point on your websites graph... ( this is really vitally important )
   - **that you ever published** ... if it fails it will cause problematic traffic... 
 
-2. with this in mind all urls must conform, and you shuld not rush how you publish them... in fact it better to ensure you can proxy a url via its canonical to several forms.
+2. with this in mind all urls must conform, and you shuld not rush how you publish them... in fact it better to ensure you can proxy a url via its canonical to several forms. ( transparently to link or to keep the canonical updated within the routing mechanism... )
 
 i. hash url
 ii. denominator url
 
 - sync with shorteners
+
+#### routing map
+### consistency
+### check-links
+### redirects
+### validators
+#### hosting / cloud / cdn 
 
 # trust
 - how to gain trust... 
