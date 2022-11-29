@@ -120,6 +120,10 @@ ii. denominator url
   - options comm / free / social
 - future technology web3 / peer web / peer tech
 
+# ui
+## journeys
+#### use cases
+##### petition
 ## page structure
 ### page html
 ### cheap html
