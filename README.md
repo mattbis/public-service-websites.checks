@@ -28,3 +28,29 @@
 - social media
 - free media
 - open media
+
+### aims 
+
+- hateoas
+- micronav
+- microdata
+- static
+- progressive minimal enhancement 
+
+### critique
+- react
+- server side react
+
+# links
+
+1. the first thing you have to consider, is every action of the internet is forever... every single link. 
+- therefore its important to now in a sequential index, every possible end point on your websites graph... ( this is really vitally important )
+
+2. with this in mind all urls must conform, and you shuld not rush how you publish them... in fact it better to ensure you can proxy a url via its canonical to several forms.
+
+i. hash url
+ii. denominator url
+
+- sync with shorteners
+
+.....
