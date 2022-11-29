@@ -108,6 +108,7 @@ ii. denominator url
 
 - domains
   - basic things
+    - disallow email forwarding
   - aliases
   - dns services
 - web buckets
