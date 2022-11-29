@@ -62,6 +62,10 @@
 - petitions
 - charities
 - services
+- ui - over simplification
+- ui - gradual complexity
+
+# motives
 
 # links
 
