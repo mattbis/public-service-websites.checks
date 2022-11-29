@@ -36,6 +36,8 @@
 - microdata
 - static
 - progressive minimal enhancement 
+- a1lly
+- pa111ly
 
 ### critique
 - react
