@@ -16,6 +16,7 @@
 
 - global
 - local
+- regional
 - trust
 - archive
 - structure
