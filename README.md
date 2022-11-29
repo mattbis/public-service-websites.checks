@@ -5,6 +5,8 @@
 - lets ensure you do not waste money on terrible implementations
 - lets provide an experience that works from the slowest connection to the fastest. and uses the minimal amount of javascript. and web technologies.
 
+# organisation
+
 ## particular case studies
 
 - charities
@@ -118,6 +120,12 @@ ii. denominator url
 ### redirects
 ### validators
 #### hosting / cloud / cdn 
+
+# data
+### formats
+#### delayed cdn techniques
+#### expected service
+#### prioritisation
 
 # trust
 - how to gain trust... 
