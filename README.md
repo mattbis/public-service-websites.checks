@@ -46,7 +46,7 @@
 - pa111ly
 - data sharing
 - data description
-- historical ( i am forgetting words since i am doing other stuff todo )
+- historical ( i am forgetting words since i am doing other stuff todo integrity, parity, erm ... hmmm words many words.... as usual you cant make it that simple... but its basically part of not rushing )
 - security
 - scaling
 - global | local
@@ -95,7 +95,10 @@ ii. denominator url
   - options comm / free / social
 - future technology web3 / peer web / peer tech
 
-.....
+# implementation
+### specification
+### timescale
+### base & iterations
 
 # maps
 - linkmap
@@ -105,3 +108,6 @@ ii. denominator url
 - resourcemaps
 
 ## map syndication
+
+# tools
+# abstract examples
