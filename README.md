@@ -28,6 +28,10 @@
 - social media
 - free media
 - open media
+- data formats
+- data types
+- service types
+- application types and maps - this concerns a scale from a basic static to some restful / graphql service
 
 ### aims 
 
@@ -38,10 +42,21 @@
 - progressive minimal enhancement 
 - a1lly
 - pa111ly
+- data sharing
+- security
+- scaling
+- global | local
 
 ### critique
 - react
 - server side react
+- cms
+- basics
+- community
+- ui design and friendliness
+- petitions
+- charities
+- services
 
 # links
 
@@ -55,6 +70,13 @@ i. hash url
 ii. denominator url
 
 - sync with shorteners
+
+# architecture
+
+- hashes
+- stupid indexes
+- history
+- formats
 
 .....
 
