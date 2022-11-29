@@ -88,7 +88,14 @@
 # motives
 - ,,
 
-# links
+# content
+
+## referencing content
+## describing content
+## creating metadata
+### cleaning metadata
+
+## links
 
 1. the first thing you have to consider, is every action of the internet is forever... every single link. 
 - therefore its important to know in a sequential index, every possible end point on your websites graph... ( this is really vitally important )
