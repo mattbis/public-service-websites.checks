@@ -73,12 +73,19 @@ ii. denominator url
 
 - sync with shorteners
 
+# trust
+- how to gain trust... 
+
 # architecture
 
 - hashes
 - stupid indexes
 - history
 - formats
+- cdn
+  - options comm / free / social
+
+- future technology web3 / peer web / peer tech
 
 .....
 
