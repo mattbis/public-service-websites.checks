@@ -113,7 +113,7 @@ ii. denominator url
 - web buckets
 - concurrency
 - hashes
-- stupid indexes
+- page immutable index
 - history
 - formats
 - cdn
