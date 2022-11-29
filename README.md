@@ -38,6 +38,8 @@
 - service types
 - application types and maps - this concerns a scale from a basic static to some restful / graphql service
 - monitoring and insight
+- code feedback
+- user feedback
 
 ### aims 
 
