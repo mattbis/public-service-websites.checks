@@ -45,6 +45,8 @@
 - a1lly
 - pa111ly
 - data sharing
+- data description
+- historical ( i am forgetting words since i am doing other stuff todo )
 - security
 - scaling
 - global | local
@@ -79,13 +81,18 @@ ii. denominator url
 
 # architecture
 
+- domains
+  - basic things
+  - aliases
+  - dns services
+- web buckets
+- concurrency
 - hashes
 - stupid indexes
 - history
 - formats
 - cdn
   - options comm / free / social
-
 - future technology web3 / peer web / peer tech
 
 .....
