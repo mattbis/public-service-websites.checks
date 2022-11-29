@@ -46,7 +46,8 @@
 # links
 
 1. the first thing you have to consider, is every action of the internet is forever... every single link. 
-- therefore its important to now in a sequential index, every possible end point on your websites graph... ( this is really vitally important )
+- therefore its important to know in a sequential index, every possible end point on your websites graph... ( this is really vitally important )
+  - **that you ever published** ... if it fails it will cause problematic traffic... 
 
 2. with this in mind all urls must conform, and you shuld not rush how you publish them... in fact it better to ensure you can proxy a url via its canonical to several forms.
 
@@ -56,3 +57,10 @@ ii. denominator url
 - sync with shorteners
 
 .....
+
+# maps
+- linkmap
+- sitemaps
+  - advanced sitemaps
+- datamaps
+- resourcemaps
