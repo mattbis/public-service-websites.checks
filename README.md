@@ -12,6 +12,8 @@
 - petitions
 - social interaction
 
+### example use cases
+
 ### modifiers
 
 - global
