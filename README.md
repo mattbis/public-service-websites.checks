@@ -95,6 +95,10 @@ ii. denominator url
   - options comm / free / social
 - future technology web3 / peer web / peer tech
 
+## page structure
+### page html
+### cheap html
+
 # implementation
 ### specification
 ### timescale
