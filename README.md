@@ -46,7 +46,7 @@
 - pa111ly
 - data sharing
 - data description
-- historical ( i am forgetting words since i am doing other stuff todo integrity, parity, erm ... hmmm words many words.... as usual you cant make it that simple... but its basically part of not rushing )
+- historical, posterity, duty, validation
 - security
 - scaling
 - global | local
