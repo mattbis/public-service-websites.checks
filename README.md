@@ -323,7 +323,6 @@ ii. denominator url
 
 # decisions
 - choosing what agency to use
-  - how many bad websites must i see again.. that fail to do really any of this.. ie i cannot use it in lynx.. 
 - stop making really bad risk and assumptions and focus on a clean and beautiful simple website... and not what your sold..
 - please learn what cross referencing is ...
 - dont think you need a super service like massive companies... you dont... since if that means your getting the **basics wrong** what is the point?
