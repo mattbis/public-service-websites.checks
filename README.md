@@ -68,6 +68,9 @@
 - global | local
 - feedback / insight and problems
 
+## semantic aspirations
+- none of what we have is particularly good...most of the web is bad...
+
 ### critique
 - aim of the website
 - implementations and goals
