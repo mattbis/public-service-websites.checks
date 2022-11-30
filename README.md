@@ -117,6 +117,7 @@
 - ui - over simplification
 - ui - gradual complexity
 - ui - functional navigation
+- ui - modes
 - ui - navigation disasters
 - ui - misleading pathways
 - ui - maps
