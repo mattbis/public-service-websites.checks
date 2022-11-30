@@ -246,12 +246,6 @@ ii. denominator url
 - ex employees
 - ex campaigns
 - keys in code
-
-# decisions
-- please learn what cross referencing is ...
-- dont think you need a super service like massive companies... you dont... since if that means your getting the **basics wrong** what is the point?
-
-# business logic and the input of stake holders
 - ....
 
 # navigation
@@ -297,6 +291,15 @@ ii. denominator url
 ### being honest
 #### people will like being told the truth
 ## gradual implementation from a solid foundation
+
+# decisions
+- choosing what agency to use
+  - how many bad websites must i see again.. that fail to do really any of this.. ie i cannot use it in lynx.. 
+- stop making really bad risk and assumptions and focus on a clean and beautiful simple website... and not what your sold..
+- please learn what cross referencing is ...
+- dont think you need a super service like massive companies... you dont... since if that means your getting the **basics wrong** what is the point?
+### business logic and the input of stake holders
+- it is not productive to do something that has no logic behind it ...
 
 # maps
 ## formal types
