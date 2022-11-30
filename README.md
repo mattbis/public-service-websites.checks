@@ -150,7 +150,7 @@
 
 3. so long as this exists in various sitemaps ( which should be compressed ) it will work... 
 
-a. if you change it dont forget what existed before this is the biggest mistake I see.. in fact this is what the `page-immutable-index` is... 
+a. if you change it dont forget what existed before this is the biggest mistake I see.. in fact this is what the `url-immutable-index` is... 
 
 i. hash url
 ii. denominator url
@@ -188,7 +188,7 @@ ii. denominator url
 - web buckets
 - concurrency
 - hashes
-- page immutable index
+- url-immutable-index
 - history
 - formats
 - cdn
