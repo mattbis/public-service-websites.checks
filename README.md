@@ -176,6 +176,27 @@ ii. denominator url
   - virustotal
   - performance
   - standards w3c
+  - security
+  - sessions
+  - certificates
+  - references
+  - key people
+  - data retention
+  - clear data policy
+  - ethics
+  - slave statement
+  - carbon neutrality
+  - mission statement
+  - simple staff description
+  - advert syndication and implementation
+  - advert policy
+  - funding statement
+  - advert reason document
+  - board mission statement
+  - board composition
+### do not present too much information
+#### do not give away personal details - just enough for people to know what this is actually about 
+- and you have nothing to hide.. 
 
 # architecture
 
