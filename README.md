@@ -203,6 +203,7 @@ ii. denominator url
 ### specification
 ### timescale
 ### base & iterations
+### bottlenecks and architecture in the wrong hands... 
 
 # maps
 ## formal types
