@@ -48,6 +48,8 @@
 - noble, civil, and syndicators rating
 
 #### usability
+- base layer
+- universal base layer
 - hateoas
 - micronav
 - microdata
@@ -55,6 +57,7 @@
   - nav renders / reader pages
     ( this is what i described before it means you can find some category or petition for example and ask /nav this means you then get a page that indexers use ( considering you setup you links and alias from canons to actual content ) - the types of pages serve as landers or indexers for next and prev, and up or down and also in or out... they dont need to be in the app.. their purpose to aide readers and crawlers 
 - progressive minimal enhancement 
+- progressive enhancement
 - a1lly
 - pa111ly
 - data sharing
