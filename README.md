@@ -94,6 +94,8 @@
 - react is not the solution
 - server side react is expensive
 - react is good
+- react is bad 
+- non react
 - components are good but then they dont really follow any common form.. 
 - hoc might have been good but then people dont like it
 - now we have a mess
