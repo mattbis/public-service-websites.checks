@@ -170,6 +170,11 @@
   - sitemap.alias
   - sitemap.images
   - sitemap.assets
+  - sitemap.mobile
+  - sitemap.shop
+  - sitemap.nav
+  - sitemap.tags
+  - sitemap.meta
   - sitemap.org
   - sitemap.dyn-rating
 
