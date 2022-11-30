@@ -79,6 +79,8 @@
 - confusing people wastes countless hours in emails and requests - if you insist on providing API, then please, reorganise it via aliases, into something that actually makes sense : over the duration of the service.. and don't mothball stuff that is badly understood...
 - if your cloud/service/node serves, it must be documented and it must be within a tree....
 
+#### tree structure is all you need.
+
 ### critique and good
 - aim of the website
 - implementations and goals
