@@ -17,7 +17,6 @@
 ### example use cases
 
 ### modifiers
-
 - global
 - local
 - regional
@@ -70,6 +69,17 @@
 
 ## semantic aspirations
 - none of what we have is particularly good...most of the web is bad...
+
+## versioning and ..
+- over versions
+- under versions
+- the need for versions
+### data requires a clear taxonomy and organisation
+- confusing people wastes countless hours in emails and requests - if you insist on providing rest, then please, reorganise it via aliases, into something that actually makes sense
+- For example:
+- from `/rest-srv.old/thing/Method/Get`
+- `/legacy/vN` old
+- `/rest/vN` now
 
 ### critique and good
 - aim of the website
@@ -195,17 +205,29 @@ ii. denominator url
 ### base & iterations
 
 # maps
+## formal types
 - linkmap
 - sitemaps
   - advanced sitemaps
 - datamaps
 - resourcemaps
+### descriptor types
+#### xml
+#### json
+#### application/service
+#### enhancers
+
+## static descriptor
+## dynamic descriptor
 
 ## map syndication
 
+## map --> graph --> rest / graphql / static / format
+
 # tools
+# generators
 # abstract examples
 
 # organisation-to-donate
-- archiveorg
+- archive.org
 - ... 
