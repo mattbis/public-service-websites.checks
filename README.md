@@ -191,6 +191,9 @@ ii. denominator url
 # decisions
 - please learn what cross referencing is ...
 
+# business logic and the input of stake holders
+- ....
+
 # ui
 ## journeys
 #### use cases
