@@ -44,7 +44,7 @@
 ### aims 
 
 #### ratings
-- noble, civil, and syndicators rating
+- noble, security, civil, and syndicators rating
 
 #### usability
 - base layer
