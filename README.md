@@ -176,7 +176,6 @@ ii. denominator url
   - virustotal
   - performance
   - standards w3c
-  - you do not need to do what the big four says
 
 # architecture
 
