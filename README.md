@@ -225,6 +225,30 @@ ii. denominator url
     - overheads
     - ref: prioritisation and what actually is important
 
+# security
+- accounts and storing data mean instant problems
+- admin enhancement ( please stop putting it in your main build since you are not very good )
+- expand, since obviously this is specialised and a bit outta reaches eventually in document.
+
+### mitigations and preventions
+- using services
+- companies providing reasonable services that are not trying to sell a massive wasteful badly optmised mess
+  - this concerns security  and so called bad cms solutions... 
+- secret linting
+- code linting
+- cloud linting ( ? hmm )
+
+#### IAC can become stale and untouched from a system that cannot be updated
+- this is a massive problem... this is why versions, and double domains are a must...
+- do not become another org that never fixes costly mistakes in IAC and what the machines are actually doing...
+- carbon neutrality.. 
+
+#### common mistakes
+- robots.txt
+- ex employees
+- ex campaigns
+- keys in code
+
 # decisions
 - please learn what cross referencing is ...
 - dont think you need a super service like massive companies... you dont... since if that means your getting the **basics wrong** what is the point?
