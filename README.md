@@ -44,8 +44,8 @@
 
 ### aims 
 
-#### ratings
-- noble, security, civil, and syndicators
+#### ratings see trust
+- noble, gov, fellows, security, civil, education, bodies, orgs, companies and syndicators
 
 #### usability
 - global attributes
@@ -170,7 +170,7 @@ ii. denominator url
 #### expected service
 #### prioritisation
 
-# trust
+# trust / concerns
 - how to gain trust... 
   - validators
   - virustotal
@@ -214,9 +214,14 @@ ii. denominator url
 - cdn
   - options comm / free / social
 - future technology web3 / peer web / peer tech
+- rate
+  - policies
+    - overheads
+    - ref: prioritisation and what actually is important
 
 # decisions
 - please learn what cross referencing is ...
+- dont think you need a super service like massive companies... you dont... since if that means your getting the **basics wrong** what is the point?
 
 # business logic and the input of stake holders
 - ....
