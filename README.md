@@ -215,6 +215,27 @@ ii. denominator url
 # business logic and the input of stake holders
 - ....
 
+# navigation
+  - functional
+  - robotic
+  - static
+  - readers
+  - accessibility
+  - trawlers
+  - crawlers
+  - unofficial static links
+  - fancy
+  - mega-menus
+  - paths
+  - journeys
+  - abstract techniques
+  - visual techniques
+  - deliberate obfuscation techniques
+  - breadcrumb
+    - disasters
+    - variations
+## the need for underlying static navigation cases
+
 # ui
 ## journeys
 #### use cases
