@@ -81,6 +81,9 @@
 - components - over generalisation - product creep - and control
 - technology and product
 - product and project management
+- ui - over trusting designers
+- ui - product problems
+- ui - architecture
 - ui - over simplification
 - ui - gradual complexity
 - ui - functional navigation
@@ -132,6 +135,11 @@ ii. denominator url
 
 # trust
 - how to gain trust... 
+  - validators
+  - virustotal
+  - performance
+  - standards w3c
+  - you do not need to do what the big four says
 
 # architecture
 
@@ -149,6 +157,9 @@ ii. denominator url
 - cdn
   - options comm / free / social
 - future technology web3 / peer web / peer tech
+
+# decisions
+- please learn what cross referencing is ...
 
 # ui
 ## journeys
