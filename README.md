@@ -219,6 +219,10 @@ ii. denominator url
 ### bottlenecks and architecture in the wrong hands... 
 ### being bold and making a statement
 #### being aware of needs of all people
+## kanban really works 
+### being honest
+#### people will like being told the truth
+## gradual implementation from a solid foundation
 
 # maps
 ## formal types
