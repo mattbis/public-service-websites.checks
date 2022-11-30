@@ -71,7 +71,7 @@
 ## semantic aspirations
 - none of what we have is particularly good...most of the web is bad...
 
-### critique
+### critique and good
 - aim of the website
 - implementations and goals
 - indexers, level of traction, need for standard
