@@ -68,6 +68,12 @@
 - global | local
 - feedback / insight and problems
 
+## volume & scale 
+- expectations
+- automations
+- trolling
+- mistaken cases
+
 ## semantic aspirations
 - none of what we have is particularly good...most of the web is bad...
 
