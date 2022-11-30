@@ -163,6 +163,15 @@
 2. with this in mind all urls must conform, and you shuld not rush how you publish them... in fact it better to ensure you can proxy a url via its canonical to several forms. ( transparently to link or to keep the canonical updated within the routing mechanism... )
 
 3. so long as this exists in various sitemaps ( which should be compressed ) it will work... 
+  - google-market-map
+  - sitemap - all links - current
+  - url-index --> url-immutable-index
+  - sitemap.legacy
+  - sitemap.alias
+  - sitemap.images
+  - sitemap.assets
+  - sitemap.org
+  - sitemap.dyn-rating
 
 a. if you change it dont forget what existed before this is the biggest mistake I see.. in fact this is what the `url-immutable-index` is... 
 
