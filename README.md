@@ -140,7 +140,6 @@
 - ui - scrolling 
 - ui - over design
 - ui - under design
-- ui - over product managed
 - ui - cute
 - ui - trust building
 
