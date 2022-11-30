@@ -44,11 +44,11 @@
 ### aims 
 
 #### ratings
-- noble, security, civil, and syndicators rating
+- noble, security, civil, and syndicators
 
 #### usability
-- base layer
-- universal base layer
+- global attributes
+- global artefact
 - hateoas
 - micronav
 - microdata
@@ -204,6 +204,9 @@ ii. denominator url
 ## page structure
 ### page html
 ### cheap html
+## solutions
+- base layer
+- universal base layer
 
 # implementation
 ### specification
