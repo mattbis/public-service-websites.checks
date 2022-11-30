@@ -75,11 +75,14 @@
 - under versions
 - the need for versions
 ### data requires a clear taxonomy and organisation
-- confusing people wastes countless hours in emails and requests - if you insist on providing rest, then please, reorganise it via aliases, into something that actually makes sense
+- confusing people wastes countless hours in emails and requests - if you insist on providing API, then please, reorganise it via aliases, into something that actually makes sense : over the duration of the service.. and don't mothball stuff that is badly understood...
+- if your cloud/service/node serves, it must be documented and it must be within a tree....
+- bad documentation and links to how things work, are a recipe to be distrusted and gain bad comments...
 - For example:
 - from `/rest-srv.old/thing/Method/Get`
 - `/legacy/vN` old
 - `/rest/vN` now
+- both work but its to help people figure it out at first... 
 
 ### critique and good
 - aim of the website
@@ -229,6 +232,11 @@ ii. denominator url
 ## map syndication
 
 ## map --> graph --> rest / graphql / static / format
+
+## tags
+- over tags
+- under tags
+- using tags to reference the websites graph, map, and age
 
 # tools
 # generators
