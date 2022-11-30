@@ -263,8 +263,17 @@ ii. denominator url
   - quik, http2/3
   - headers
 - letting everyone have the secrets on their machines
-  - **letting contractors know all your keys**
-- ....
+  - **letting contractors know all your keys** - out of scope / blanket roles and users
+  - use a vault
+  - refresh keys via automation
+  - do not add - agencies and internal people to cloud accounts
+  - restrict agencies and internal to a seperate test env 
+  - retain personell to manage rights, keys, transfer of code to production
+- ** DO NOT ALLOW PEOPLE ACCESS TO YOUR PRODUCTION DATABASE ** WITHOUT GOOD REASON.
+  1. even teh CTO can only see the replica
+  2. CTO can see prod db in cloud, and subordinates
+  3. retain strict access controls
+  - ....
 
 # navigation
   - functional
