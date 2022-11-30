@@ -274,6 +274,8 @@ ii. denominator url
   2. CTO can see prod db in cloud, and subordinates
   3. retain strict access controls
   - ....
+- verify ips within trusted zone - dont assume an ip is trustworthy for the entire duration of your company.. solid in IAC and forgotten ,, this is a terrible idea.
+
 
 # navigation
   - functional
