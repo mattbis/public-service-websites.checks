@@ -256,11 +256,14 @@ ii. denominator url
 - ex employees
 - ex campaigns
 - keys in code
+- ancient keys
 - rate limiting
 - content length
 - protocols
   - quik, http2/3
   - headers
+- letting everyone have the secrets on their machines
+  - **letting contractors know all your keys**
 - ....
 
 # navigation
