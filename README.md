@@ -83,9 +83,12 @@
 - aim of the website
 - implementations and goals
 - indexers, level of traction, need for standard
-- react
-- server side react
-- cms
+- react is not the solution
+- server side react is expensive
+- simple frontends
+- simple static systems
+- bad cms
+- bad enterprise
 - basics
 - community
 - ui design and friendliness
