@@ -102,6 +102,20 @@
 - ui - sub hero fields
 - ui - key data - and values 
 - ui - colour blindness
+- ui - themes
+- ui - blandness - another black and white website
+- ui - icons
+- ui - image
+- ui - figures and charts
+- ui - css
+- ui - css - performance optimisation
+- ui - stutor
+- ui - scrolling 
+- ui - over design
+- ui - under design
+- ui - over product managed
+- ui - cute
+- ui - trust building
 
 # motives
 - ,,
