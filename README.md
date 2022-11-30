@@ -16,7 +16,8 @@
 
 ### example use cases
 
-### modifiers
+### modifiers of website
+- orientation
 - global
 - local
 - regional
@@ -272,17 +273,19 @@ ii. denominator url
 #### application/service
 #### enhancers
 
+## map --> graph --> rest / graphql / static / format
+### graph edges
+### nodes
+
 ## static descriptor
 ## dynamic descriptor
-
-## map syndication
-
-## map --> graph --> rest / graphql / static / format
 
 ## tags
 - over tags
 - under tags
 - using tags to reference the websites graph, map, and age
+### local
+#### global
 
 # tools
 # generators
