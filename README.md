@@ -231,9 +231,7 @@ ii. denominator url
 - expand, since obviously this is specialised and a bit outta reaches eventually in document.
 
 ### mitigations and preventions
-- using services
-- companies providing reasonable services that are not trying to sell a massive wasteful badly optmised mess
-  - this concerns security  and so called bad cms solutions... 
+- using services & purchasing the right product.. do you really know how good this is .. does it do any of this? what is the point of being an ORG... 
 - secret linting
 - code linting
 - cloud linting ( ? hmm )
