@@ -204,6 +204,8 @@ ii. denominator url
 ### timescale
 ### base & iterations
 ### bottlenecks and architecture in the wrong hands... 
+### being bold and making a statement
+#### being aware of needs of all people
 
 # maps
 ## formal types
