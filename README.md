@@ -93,6 +93,11 @@
 - indexers, level of traction, need for standard
 - react is not the solution
 - server side react is expensive
+- react is good
+- components are good but then they dont really follow any common form.. 
+- hoc might have been good but then people dont like it
+- now we have a mess
+- software is always based on blocks that append to the outcome.. 
 - simple frontends
 - simple static systems
 - bad cms
