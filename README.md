@@ -247,6 +247,13 @@ ii. denominator url
     - overheads
     - ref: prioritisation and what actually is important
 
+# building
+- complexity
+- rivalries
+- manifests
+### manifest and their importance
+#### versions and hashes
+
 # security
 - accounts and storing data mean instant problems
 - admin enhancement ( please stop putting it in your main build since you are not very good )
