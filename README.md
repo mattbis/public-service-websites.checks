@@ -243,15 +243,24 @@ ii. denominator url
 - cloud linting ( ? hmm )
 
 #### IAC can become stale and untouched from a system that cannot be updated
-- this is a massive problem... this is why versions, and double domains are a must...
+- this is a massive problem... this is why versions, and double domains are a must... ( backup to preprod ) 
 - do not become another org that never fixes costly mistakes in IAC and what the machines are actually doing...
 - carbon neutrality.. 
+
+#### common mistakes in envs
+- have a preprod - when you syndicate to google and other indexers, you need to get it right .. etc.. it doesnt even need to be up always.. but a very useful testing ground.
+- this will also validate perf testing without hitting the main copy
 
 #### common mistakes
 - robots.txt
 - ex employees
 - ex campaigns
 - keys in code
+- rate limiting
+- content length
+- protocols
+  - quik, http2/3
+  - headers
 - ....
 
 # navigation
