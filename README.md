@@ -1,3 +1,5 @@
+# a quick brain storm on how I will make some services work.. and then try to make a plan based on this ... or not.. 
+
 # public-service-websites.checks
 .. this is how to make your website accessible to everyone and follow a standard set of rules.. that mean it works forever. 
 
